@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="splash_screen_slogan">Пересылка входящих SMS на сервер</string>
+    <string name="enable_button_turn_off_text">Выключить</string>
+    <string name="enable_button_turn_on_text">Включить</string>
+    <string name="query_method_title_text">Метод передачи данных</string>
+
+    <string name="path_to_script_title_text">Путь к скрипту</string>
+
+    <string name="data_title_text">Данные</string>
+
+    <string name="data_sms_text">Текст сообщения</string>
+    <string name="data_phone_id_text">Идентификатор телефона получателя</string>
+    <string name="data_phone_number_text">Номер телефона отправителя</string>
+    <string name="data_current_time_millis_text">Время (мс)</string>
+
+    <string name="sms_filter_title_text">SMS фильтр</string>
+    <string name="sms_filter_text">Содержит</string>
+    <string name="sms_filter_hint_text">Пример 55</string>
+
+    <string name="basic_auth_title_text">Базовая аутентификация доступа</string>
+
+    <string name="basic_auth_user_text">Логин</string>
+    <string name="basic_auth_password_text">Пароль</string>
+
+    <string name="basic_auth_user_hint_text">пользователь</string>
+    <string name="basic_auth_password_hint_text">пароль</string>
+
+    <string name="explanation_message">Для чтения и пересылки входящих SMS сообщений приложению требуется разрешение. Вы согласны предоставить разрешение для этого?</string>
+    <string name="explanation_positive_button">Хорошо</string>
+    <string name="explanation_negative_button">Выход</string>
+</resources>

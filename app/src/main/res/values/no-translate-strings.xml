@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SMS Trip</string>
+    <string name="preference_file_key">app_preference_file_key</string>
+    <string-array name="request_methods">
+        <item>POST</item>
+        <item>GET</item>
+    </string-array>
+    <string name="script_path_hint_text">http://mydomain.com/script.php</string>
+
+    <string name="data_param1_hint_text">param1</string>
+    <string name="data_param2_hint_text">param2</string>
+    <string name="data_param3_hint_text">param3</string>
+    <string name="data_param4_hint_text">param4</string>
+
+    <string name="data_param1_default_value_text">param1</string>
+    <string name="data_param2_default_value_text">param2</string>
+    <string name="data_param3_default_value_text">param3</string>
+    <string name="data_param4_default_value_text">param4</string>
+
+    <string name="path_to_script_default_value_text"></string>
+    <string name="basic_auth_user_default_value_text"></string>
+    <string name="basic_auth_password_default_value_text"></string>
+
+    <string name="splash_screen_home_page_link">https://anyappscompany.blogspot.com</string>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="splash_screen_slogan">Incoming SMS redirect to server</string>
+    <string name="enable_button_turn_off_text">Turn off</string>
+    <string name="enable_button_turn_on_text">Enable</string>
+    <string name="query_method_title_text">Request method</string>
+
+    <string name="path_to_script_title_text">Path to script</string>
+
+    <string name="data_title_text">Data</string>
+
+    <string name="data_sms_text">Short Message</string>
+    <string name="data_phone_id_text">Recipient Phone ID</string>
+    <string name="data_phone_number_text">Sender\'s phone number</string>
+    <string name="data_current_time_millis_text">Time (ms)</string>
+
+    <string name="sms_filter_title_text">SMS filter</string>
+    <string name="sms_filter_text">Contains</string>
+    <string name="sms_filter_hint_text">Example 55</string>
+
+    <string name="basic_auth_title_text">Basic access authentication</string>
+
+    <string name="basic_auth_user_text">Login</string>
+    <string name="basic_auth_password_text">Password</string>
+
+    <string name="basic_auth_user_hint_text">user</string>
+    <string name="basic_auth_password_hint_text">password</string>
+
+    <string name="explanation_message">The application requires permission to read and forward incoming SMS messages. Do you agree to grant permission for this?</string>
+    <string name="explanation_positive_button">Okay</string>
+    <string name="explanation_negative_button">Exit</string>
+</resources>
